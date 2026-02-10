@@ -142,7 +142,7 @@ Il simulatore è volutamente semplice e facilita il testing della logica del con
 
 ## Licenza
 
-Questo repository è fornito per scopi didattici. Aggiungere una licenza se richiesta dall'ateneo.
+Questo repository è fornito per scopi didattici.
 
 ## Contatti
 
