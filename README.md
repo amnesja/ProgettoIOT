@@ -51,11 +51,7 @@ Consultare i file sorgente per i dettagli di implementazione.
 Prerequisiti:
 
 - Python 3.10+ (il progetto è stato sviluppato usando Python 3.14 in virtualenv). Assicurarsi di avere `python` e `pip` funzionanti.
-- Un broker MQTT raggiungibile su `localhost:1883` (es. Mosquitto). Per test rapido si può usare Docker:
-
-```bash
-docker run -it --rm -p 1883:1883 eclipse-mosquitto
-```
+- Un broker MQTT raggiungibile su `localhost:1883` (es. Mosquitto).
 
 Passi consigliati (in terminali separati):
 
